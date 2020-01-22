@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "theMachine-app",
+      "title": "machineXchange",
+      "url": "https://www.genislab.com"
+    }
+  ]
+}
